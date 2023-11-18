@@ -1,3 +1,5 @@
-# SHA-1 Password Cracker
+# # freeCodeCamp - Information Security Projects - SHA-1 Password Cracker
 
-This is the boilerplate for the SHA-1 Password Cracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker
+Instructions for building the project can be found at https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker
+
+My solution link: https://boilerplate-SHA-1-password-cracker.the-aldi-tri.repl.co
